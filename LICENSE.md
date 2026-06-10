@@ -1,4 +1,4 @@
-# 
+# Open Source Firecrawl scripts. Featuring voice-assistant and custom-model-training — optimized for maximum performance and efficiency.
 
 
 
